@@ -1,7 +1,6 @@
 ### Hi there 👋 , I'm Abraham and welcome to my profile :D
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalfurionStormrage&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalfurionStormrage)](https://github.com/anuraghazra/github-readme-stats)                          
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalfurionStormrage&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalfurionStormrage&layout=compact&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MalfurionStormrage/MalfurionStormrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
