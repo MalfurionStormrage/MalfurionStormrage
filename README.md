@@ -1,6 +1,16 @@
 <h1 align="center">Hola 👋, soy Abraham Lara Rodriguez</h1>
 <h3 align="center">Backend Developer — Ingenierio De Sistemas</h3>
 
+- 🌱 Actualmente estoy aprendiendo **Terraform avanzado, buenas prácticas de DevOps.**
+
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/MalfurionStormrage](https://github.com/MalfurionStormrage)
+
+- 💬 Pregúntame sobre **Java, Spring Boot, despliegues en AWS, CI/CD con Docker.**
+
+- 📫 Cómo contactarme **Abrahamopelara@hotmail.com**
+
+- ⚡ Dato curioso **Fan de los retos de automatización y los videojuegos de mundo abierto.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/abraham-lara-rodriguez-826828207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abraham-lara-rodriguez-826828207" height="30" width="40" /></a>
